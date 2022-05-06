@@ -5,7 +5,7 @@ I wrote down the detailed description of this EFI in the notion
 
 # Working Features
 
-![Screen Shot 2022-01-05 at 4 36 22 PM](https://user-images.githubusercontent.com/101755125/167086809-79d4b322-8e29-4c25-81ba-3f665a2c9f9a.png)
+<img src="https://user-images.githubusercontent.com/101755125/167086809-79d4b322-8e29-4c25-81ba-3f665a2c9f9a.png"
 
 
 
