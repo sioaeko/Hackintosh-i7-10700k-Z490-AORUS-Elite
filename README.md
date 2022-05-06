@@ -5,7 +5,6 @@ Please Read Notion Before using EFI!
 /
 Working Features
 /
-![Screen Shot 2022-04-06 at 11 56 47 PM](https://user-images.githubusercontent.com/101755125/167086244-1d7654a7-be5d-4d50-af56-47223ecbf296.png)
 ![Screen Shot 2022-01-05 at 4 36 22 PM](https://user-images.githubusercontent.com/101755125/167086809-79d4b322-8e29-4c25-81ba-3f665a2c9f9a.png)
 
 - Base Hardware spec
