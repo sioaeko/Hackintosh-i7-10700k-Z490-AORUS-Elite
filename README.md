@@ -31,6 +31,8 @@ I wrote down the detailed description of this EFI in the notion
 
 ![Screen Shot 2022-03-30 at 12 31 59 AM](https://user-images.githubusercontent.com/101755125/167087027-20effeb7-f12f-4e29-aae3-ea8dad27f6ad.png)
 
+## Bios Setting
+
 
 
 #### Download my EFI on Github repo and Google drive!
