@@ -4,10 +4,11 @@ Please Read Notion Before using EFI!
 > https://alive-bayberry-ea1.notion.site/AORUS-Z490-Elite-10700K-UHD-630-OC-0-7-9-Perfect-4c4ff8c7dc3b42a8886d361a6bbde9c9
 /
 Working Features
-
+/
 ![Screen Shot 2022-04-06 at 11 56 47 PM](https://user-images.githubusercontent.com/101755125/167086244-1d7654a7-be5d-4d50-af56-47223ecbf296.png)
-![Screen Shot 2022-03-30 at 8.19.25 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f0aaeb36-be61-49a5-93c6-1cdfab0998ac/Screen_Shot_2022-03-30_at_8.19.25_PM.png)
-
+![Screen Shot 2022-01-05 at 4 36 22 PM](https://user-images.githubusercontent.com/101755125/167086809-79d4b322-8e29-4c25-81ba-3f665a2c9f9a.png)
+/
+/
 - Base Hardware spec
     - CPU : Intel Core(R) i7-10700K 8-Core 4.00Ghz(OC)
     - Memory : Teamforce Xtreem RGB DDR4 16GB 4000 MHz(OC)
@@ -17,4 +18,15 @@ Working Features
         - PM981a disabled ( Samsung OEM SSD is Cause to Kernel Panic!! )
     - SMBIOS : iMac19,1 ( Retina 5K, 27-inch, 2019)
 /
-
+**Internal Speaker,Headphones ( AppleALC )**
+/
+![Screen Shot 2022-03-30 at 12 31 59 AM](https://user-images.githubusercontent.com/101755125/167087027-20effeb7-f12f-4e29-aae3-ea8dad27f6ad.png)
+/
+- Apple Genius Airport Card ( BCM_2070B0 ) - No need to use custom kext ( Always use Native kext)
+- Apple Communites Servies+ BT ( Handoff, icloud, instant hospot, airdrop, Universal Control, Sidecar all Supported )
+- USB 3.1 Supported ( USBMap Builded ) - Mac Sleep Mode Perfectly wake up
+- Realtek 2.5G Wire LAN Supported
+/
+/
+Download my EFI on Github repo and Google drive!
+/
