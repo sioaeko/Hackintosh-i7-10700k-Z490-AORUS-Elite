@@ -33,5 +33,5 @@ I wrote down the detailed description of this EFI in the notion
 
 
 
-Download my EFI on Github repo and Google drive!
-[Google_Drive}(https://drive.google.com/file/d/1A2daSXSKwRgQst9q2N_bFwGv57rCBgl/view)
+#### Download my EFI on Github repo and Google drive!
+[Google_Drive](https://drive.google.com/file/d/1A2daSXSKwRgQst9q2N_bFwGv57rCBgl/view)
