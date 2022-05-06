@@ -1,6 +1,6 @@
 # Opencore-EFI-AORUS-Z490-Elite-OC-0.7.9-
 /
-Please Read Notion Before using EFI!
+**I wrote down the detailed description of this EFI in the notion
 > https://alive-bayberry-ea1.notion.site/AORUS-Z490-Elite-10700K-UHD-630-OC-0-7-9-Perfect-4c4ff8c7dc3b42a8886d361a6bbde9c9
 /
 Working Features
@@ -17,13 +17,13 @@ Working Features
     - SMBIOS : iMac19,1 ( Retina 5K, 27-inch, 2019)
 
 **Internal Speaker,Headphones ( AppleALC )**
+**Apple Genius Airport Card ( BCM_2070B0 ) - No need to use custom kext ( Always use Native kext)
+**Apple Communites Servies+ BT ( Handoff, icloud, instant hospot, airdrop, Universal Control, Sidecar all Supported )
+**USB 3.1 Supported ( USBMap Builded ) - Mac Sleep Mode Perfectly wake up
+**Realtek 2.5G Wire LAN Supported
 
 ![Screen Shot 2022-03-30 at 12 31 59 AM](https://user-images.githubusercontent.com/101755125/167087027-20effeb7-f12f-4e29-aae3-ea8dad27f6ad.png)
 
-- Apple Genius Airport Card ( BCM_2070B0 ) - No need to use custom kext ( Always use Native kext)
-- Apple Communites Servies+ BT ( Handoff, icloud, instant hospot, airdrop, Universal Control, Sidecar all Supported )
-- USB 3.1 Supported ( USBMap Builded ) - Mac Sleep Mode Perfectly wake up
-- Realtek 2.5G Wire LAN Supported
 
 
 Download my EFI on Github repo and Google drive!
