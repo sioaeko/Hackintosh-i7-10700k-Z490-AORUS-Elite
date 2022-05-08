@@ -5,7 +5,9 @@ I wrote down the detailed description of this EFI in the notion
 
 # Working Features
 
-![Screen Shot 2022-03-30 at 5 49 53 PM](https://user-images.githubusercontent.com/101755125/167246403-0775c985-7af7-4ffc-ac89-59b43a76884b.png)
+<img width="690" alt="Screen Shot 2022-04-06 at 11 55 35 PM" src="https://user-images.githubusercontent.com/101755125/167288229-2b859719-504b-4aa3-ab8a-26d4e6aaaeee.png">
+
+
 
 
 ## Hardware spec
