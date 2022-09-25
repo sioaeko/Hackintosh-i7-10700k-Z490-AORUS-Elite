@@ -39,6 +39,7 @@ I wrote down the detailed description of this EFI in the notion
 ## Bios Setting
 
 
-
 #### Download my EFI on Github repo and Google drive!
-[Google_Drive](https://drive.google.com/file/d/1A2daSXSKwRgQst9q2N_bFwGv57rCBgl/view)
+ ̶[̶G̶o̶o̶g̶l̶e̶_̶D̶r̶i̶v̶e̶]̶(̶h̶t̶t̶p̶s̶:̶/̶/̶d̶r̶i̶v̶e̶.̶g̶o̶o̶g̶l̶e̶.̶c̶o̶m̶/̶f̶i̶l̶e̶/̶d̶/̶1̶A̶2̶d̶a̶S̶X̶S̶K̶w̶R̶g̶Q̶s̶t̶9̶q̶2̶N̶_̶b̶F̶w̶G̶v̶5̶7̶r̶C̶B̶g̶l̶/̶v̶i̶e̶w̶)̶
+ 
+Only provide Release page
