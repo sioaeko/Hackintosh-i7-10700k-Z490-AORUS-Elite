@@ -8,9 +8,8 @@ I wrote down the detailed description of this EFI in the notion
 
 # Working Features
 
-<img width="690" alt="Screen Shot 2022-04-06 at 11 55 35 PM" src="https://user-images.githubusercontent.com/101755125/167288229-2b859719-504b-4aa3-ab8a-26d4e6aaaeee.png">
-
-<img width="2032" alt="Screen Shot 2022-06-25 at 12 29 46 AM" src="https://user-images.githubusercontent.com/101755125/177314848-eda8ae26-5d04-49b5-8ff5-b3951b0fce07.png">
+<img src="https://user-images.githubusercontent.com/101755125/167288229-2b859719-504b-4aa3-ab8a-26d4e6aaaeee.png" width="47%"></img>
+<img src="https://user-images.githubusercontent.com/101755125/177314848-eda8ae26-5d04-49b5-8ff5-b3951b0fce07.png" width="47%"></img>
 
 
 
