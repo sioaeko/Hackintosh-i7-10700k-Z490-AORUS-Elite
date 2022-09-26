@@ -24,17 +24,14 @@ I wrote down the detailed description of this EFI in the notion
         - PM981a disabled ( Samsung OEM SSD is Cause to Kernel Panic!! )
     - SMBIOS : iMac19,1 ( Retina 5K, 27-inch, 2019)
 
-* -Internal Speaker,Headphones ( AppleALC )
+## Working Functions 
 
-* -Apple Genius Airport Card ( BCM_2070B0 ) - No need to use custom kext ( Always use Native kext)
-
-* -Apple Communites Servies+ BT ( Handoff, icloud, instant hospot, airdrop, Universal Control, Sidecar all Supported )
-
-* -USB 3.1 Supported ( USBMap Builded ) - Mac Sleep Mode Perfectly wake up
-
-* -Realtek 2.5G Wire LAN Supported
-
-![Screen Shot 2022-03-30 at 12 31 59 AM](https://user-images.githubusercontent.com/101755125/167087027-20effeb7-f12f-4e29-aae3-ea8dad27f6ad.png)
+      -Internal Speaker,Headphones ( AppleALC )
+      -Apple Genius Airport Card ( BCM_2070B0 ) - No need to use custom kext ( Always use Native kext)
+      -Apple Communites Servies+ BT ( Handoff, icloud, instant hospot, airdrop, Universal Control, Sidecar all Supported )
+      -USB 3.1 Supported ( USBMap Builded ) - Mac Sleep Mode Perfectly wake up
+      -Realtek 2.5G Wire LAN Supported
+<img src = "https://user-images.githubusercontent.com/101755125/167087027-20effeb7-f12f-4e29-aae3-ea8dad27f6ad.png" width="70%"></img>
 
 ## Bios Setting
 
