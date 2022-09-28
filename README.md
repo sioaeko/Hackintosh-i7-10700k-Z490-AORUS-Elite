@@ -1,7 +1,8 @@
-# Opencore-EFI-AORUS-Z490-Elite-OC-0.8.1-
+# Opencore-EFI-AORUS-Z490-Elite-OC-0.8.3-
 
-We update OC version 0.7.9 to 0.8.1!
-You can use to upgrade MacOS Ventura
+̶W̶e̶ ̶u̶p̶d̶a̶t̶e̶ ̶O̶C̶ ̶v̶e̶r̶s̶i̶o̶n̶ ̶0̶.̶7̶.̶9̶ ̶t̶o̶ ̶0̶.̶8̶.̶1̶!̶
+We update OC Version 0.8.1 to 0.8.3!
+You can use to upgrade MacOS Ventura beta 7!!
 
 I wrote down the detailed description of this EFI in the notion
 > https://alive-bayberry-ea1.notion.site/AORUS-Z490-Elite-10700K-UHD-630-OC-0-7-9-Perfect-4c4ff8c7dc3b42a8886d361a6bbde9c9
