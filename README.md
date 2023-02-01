@@ -5,7 +5,7 @@
 We update OC Version 0.8.1 to 0.8.4!
 
 ⚠ Notice!
-We prepared Opencore 0.8.9 EFI soon as possible 
+> We prepared Opencore 0.8.9 EFI soon as possible 
 
 You can use to upgrade MacOS Ventura 13.1
 
