@@ -61,9 +61,9 @@ I wrote down the detailed description of this EFI in the notion
 > 
 > Boot > Boot Option Priorities > CSM Support > ( Enabled > Disabled )
 > 
-> Boot > Secure Boot > Secure Boot Enabled > ( Enabled > Disabled )
-> 
-> Keyboard F10 + Enter ( Save & Exit )
+- Boot > Secure Boot > Secure Boot Enabled > ( Enabled > Disabled )
+- 
+- Keyboard F10 + Enter ( Save & Exit )
 
 
 ## USB Port Map
