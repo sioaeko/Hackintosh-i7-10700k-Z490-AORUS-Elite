@@ -40,6 +40,21 @@ I wrote down the detailed description of this EFI in the notion
 
 ## Bios Setting
 
+> IO Ports > Internal Graphics > ( Auto > Enabled )
+> IO Ports > Above 4G Decoding > ( Disabled > Enabled )
+> IO Ports > USB Configuration > XHCI Hand-off > ( Disabled > Enabled )
+> IO Ports > SATA And RST Configuration > SATA Mode Selection > ( Intel RST > AHCI )
+> IO Ports > Intel Platform Trust Technology ( PTT ) > ( Enabled > Disabled )
+> IO Ports > Software Guard Extensions ( SGX ) > ( Enabled > Disabled )
+> IO Ports > Trusted Computing > Security Device Support > ( Enabled > Disabled )
+> Boot > Boot Configuration > CFG Lock > ( Enabled > Disabled )
+> Boot > Boot Option Priorities > Fast Boot > Disabled Link
+> Boot > Boot Option Priorities > CSM Support > ( Enabled > Disabled )
+> Boot > Secure Boot > Secure Boot Enabled > ( Enabled > Disabled )
+
+> Keyboard F10 + Enter ( Save & Exit )
+
+
 ## USB Port Map
 <img width="582" alt="Screenshot 2023-02-08 at 3 06 37 PM" src="https://user-images.githubusercontent.com/101755125/217448535-f0514add-a06a-4c03-8039-2aed6e3f817a.png">
 
