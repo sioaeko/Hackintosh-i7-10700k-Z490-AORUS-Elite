@@ -62,7 +62,6 @@ I wrote down the detailed description of this EFI in the notion
 > 
 > Boot > Secure Boot > Secure Boot Enabled > ( Enabled > Disabled )
 > 
-
 > Keyboard F10 + Enter ( Save & Exit )
 
 
