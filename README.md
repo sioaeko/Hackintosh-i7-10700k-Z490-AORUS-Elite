@@ -33,6 +33,9 @@ I wrote down the detailed description of this EFI in the notion
       -USB 3.1 Supported ( USBMap Builded ) - Mac Sleep Mode Perfectly wake up
       -Realtek 2.5G Wire LAN Supported
 <img src = "https://user-images.githubusercontent.com/101755125/167087027-20effeb7-f12f-4e29-aae3-ea8dad27f6ad.png" width="70%"></img>
+<img width="246" alt="Screenshot 2023-02-08 at 3 08 41 PM" src="https://user-images.githubusercontent.com/101755125/217448996-96e7f635-0caf-4942-aea2-69cb04358c3d.png">
+<img width="246" alt="Screenshot 2023-02-08 at 3 08 44 PM" src="https://user-images.githubusercontent.com/101755125/217449027-86a5ddab-8db1-4b12-9744-971a0b4c4a4e.png">
+
 
 ## Bios Setting
 
