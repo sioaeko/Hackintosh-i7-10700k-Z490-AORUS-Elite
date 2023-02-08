@@ -1,4 +1,4 @@
-# Opencore-EFI-AORUS-Z490-Elite-OC-0.8.4-
+# Opencore-EFI-AORUS-Z490-Elite-OC-0.8.9-
 
 ̶W̶e̶ ̶u̶p̶d̶a̶t̶e̶ ̶O̶C̶ ̶v̶e̶r̶s̶i̶o̶n̶ ̶0̶.̶7̶.̶9̶ ̶t̶o̶ ̶0̶.̶8̶.̶1̶!̶
 
