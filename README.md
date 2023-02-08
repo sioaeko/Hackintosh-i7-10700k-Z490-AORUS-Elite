@@ -40,7 +40,7 @@ I wrote down the detailed description of this EFI in the notion
 
 ## Bios Setting
 
->  ⚠ Base for Aorus Z490 Elite / Master
+>  ⚠  Base for Aorus Z490 Elite / Master
     
     - IO Ports > Internal Graphics > ( Auto > Enabled )
     
