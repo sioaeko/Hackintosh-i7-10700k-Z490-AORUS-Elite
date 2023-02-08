@@ -12,7 +12,7 @@ I wrote down the detailed description of this EFI in the notion
 
 <img src="https://user-images.githubusercontent.com/101755125/167288229-2b859719-504b-4aa3-ab8a-26d4e6aaaeee.png" width="47%"></img>
 <img src="https://user-images.githubusercontent.com/101755125/177314848-eda8ae26-5d04-49b5-8ff5-b3951b0fce07.png" width="47%"></img>
-<img width="1680" alt="Screenshot 2023-02-08 at 2 58 53 PM" src="https://user-images.githubusercontent.com/101755125/217449151-9e4b5a61-dcdb-4bda-b66e-a44969a25ab1.png">
+<img width="1280" alt="Screenshot 2023-02-08 at 2 58 53 PM" src="https://user-images.githubusercontent.com/101755125/217449151-9e4b5a61-dcdb-4bda-b66e-a44969a25ab1.png">
 
 
 
