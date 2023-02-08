@@ -36,6 +36,10 @@ I wrote down the detailed description of this EFI in the notion
 
 ## Bios Setting
 
+## USB Port Map
+<img width="582" alt="Screenshot 2023-02-08 at 3 06 37 PM" src="https://user-images.githubusercontent.com/101755125/217448535-f0514add-a06a-4c03-8039-2aed6e3f817a.png">
+
+
 
 #### Download my EFI on Github repo and Google drive!
  ̶[̶G̶o̶o̶g̶l̶e̶_̶D̶r̶i̶v̶e̶]̶(̶h̶t̶t̶p̶s̶:̶/̶/̶d̶r̶i̶v̶e̶.̶g̶o̶o̶g̶l̶e̶.̶c̶o̶m̶/̶f̶i̶l̶e̶/̶d̶/̶1̶A̶2̶d̶a̶S̶X̶S̶K̶w̶R̶g̶Q̶s̶t̶9̶q̶2̶N̶_̶b̶F̶w̶G̶v̶5̶7̶r̶C̶B̶g̶l̶/̶v̶i̶e̶w̶)̶
