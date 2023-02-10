@@ -72,9 +72,8 @@ I wrote down the detailed description of this EFI in the notion
 <img width="582" alt="Screenshot 2023-02-08 at 3 06 37 PM" src="https://user-images.githubusercontent.com/101755125/217448535-f0514add-a06a-4c03-8039-2aed6e3f817a.png">
 
 ⚠ Notice!
+> **If you want to use this efi normaly, Please input your New ROM / SystemUUID / SystemSerialNumber / MLB**
 
-If you want to use this efi normaly, Please input your New ROM / SystemUUID / SystemSerialNumber / MLB
-
-Screenshot 2023-02-08 at 2 43 00 PM 1
+<img width="512" alt="Screenshot 2023-02-08 at 2 43 00 PM 1" src="https://user-images.githubusercontent.com/101755125/217446894-510dd79c-2274-491d-8599-8800ae61be68.png">
 
 
