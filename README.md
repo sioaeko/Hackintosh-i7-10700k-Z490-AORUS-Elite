@@ -75,7 +75,7 @@ I wrote down the detailed description of this EFI in the notion
 
 ## Intel Speed Step & Optimizing Power Management
 
-This EFI is perfect working speed step and Optimizing Power Management(PM)
+>This EFI is perfect working speed step and Optimizing Power Management(PM)
 So you don't need to use another kext or ssdt ( ex:CPUFriend/CPUFriendFriend/SSDT-PLUG )
 
 <img width="312" alt="Screenshot 2023-02-10 at 7 34 34 PM" src="https://user-images.githubusercontent.com/101755125/218071393-7b015e7e-3700-4c3f-93db-8b19eb8c7a66.png">
