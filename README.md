@@ -5,7 +5,7 @@
 
 You can use to upgrade MacOS Ventura 13.1
 
-![KakaoTalk_Photo_2022-05-05-21-37-12](https://user-images.githubusercontent.com/101755125/218127387-eec3054e-2689-406a-a30a-ef5c70d90cdc.jpeg)
+![KakaoTalk_Photo_2022-05-05-21-37-12](https://user-images.githubusercontent.com/101755125/218128864-415aa3e0-ebf5-47cb-8be0-7e41ba3820b3.jpeg)
 
 I wrote down the detail description of this EFI in the notion
 > https://alive-bayberry-ea1.notion.site/AORUS-Z490-Elite-10700K-UHD-630-OC-0-7-9-Perfect-4c4ff8c7dc3b42a8886d361a6bbde9c9
