@@ -84,6 +84,8 @@ I wrote down the detailed description of this EFI in the notion
  <img width="552" alt="Screenshot 2023-02-10 at 7 36 17 PM" src="https://user-images.githubusercontent.com/101755125/218071381-e9f110df-e2da-4707-b772-82e3ac2ce4cf.png">
 
 
+# Important!!
+
 ⚠ Notice!
 > **If you want to use this efi normaly, Please input your New ROM / SystemUUID / SystemSerialNumber / MLB**
 
