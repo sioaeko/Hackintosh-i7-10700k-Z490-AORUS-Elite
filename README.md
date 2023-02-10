@@ -29,12 +29,22 @@ I wrote down the detailed description of this EFI in the notion
 ## Working Functions 
 
       -Internal Speaker,Headphones ( AppleALC )
+      ㄴ You can use backpanel,frontpanel headphone/microphone jack
+      
+      -Apple Genius Airport Card ( BCM_2070B0 ) - No need to use custom kext ( Always use Native kext)
       -Apple Genius Airport Card ( BCM_2070B0 ) - No need to use custom kext ( Always use Native kext)
       -Apple Communites Servies+ BT ( Handoff, icloud, instant hospot, airdrop, Universal Control, Sidecar all Supported )
+      ㄴ Recommand to use Fenvi T1919 ( This Pcie wireless card based by genuine vendor BCM94360CD )
+     
       -USB 3.1 Supported ( USBMap Builded ) - Mac Sleep Mode Perfectly wake up
-      -Realtek 2.5G Wire LAN Supported
       -Sleep and Wake Perfect
-      - Intel SpeedStep + CPU Optimizing Power Management
+      ㄴ We already mapping usb map perfect, so sleep and wake is working
+      
+      -Realtek 2.5G Wire LAN Supported
+      ㄴ Use LUCYRTL8125Ethernet.kext!
+      
+      -Intel SpeedStep + CPU Optimizing Power Management
+      ㄴ Use to patch SSDT-PLUG
 #
 <img src = "https://user-images.githubusercontent.com/101755125/167087027-20effeb7-f12f-4e29-aae3-ea8dad27f6ad.png" width="70%"></img>
 <img width="246" alt="Screenshot 2023-02-08 at 3 08 41 PM" src="https://user-images.githubusercontent.com/101755125/217448996-96e7f635-0caf-4942-aea2-69cb04358c3d.png">
