@@ -34,6 +34,8 @@ I wrote down the detailed description of this EFI in the notion
       -USB 3.1 Supported ( USBMap Builded ) - Mac Sleep Mode Perfectly wake up
       -Realtek 2.5G Wire LAN Supported
       -Sleep and Wake Perfect
+      - Intel SpeedStep + CPU Optimizing Power Management
+#
 <img src = "https://user-images.githubusercontent.com/101755125/167087027-20effeb7-f12f-4e29-aae3-ea8dad27f6ad.png" width="70%"></img>
 <img width="246" alt="Screenshot 2023-02-08 at 3 08 41 PM" src="https://user-images.githubusercontent.com/101755125/217448996-96e7f635-0caf-4942-aea2-69cb04358c3d.png">
 <img width="246" alt="Screenshot 2023-02-08 at 3 08 44 PM" src="https://user-images.githubusercontent.com/101755125/217449027-86a5ddab-8db1-4b12-9744-971a0b4c4a4e.png">
@@ -70,6 +72,13 @@ I wrote down the detailed description of this EFI in the notion
 
 ## USB Port Map
 <img width="582" alt="Screenshot 2023-02-08 at 3 06 37 PM" src="https://user-images.githubusercontent.com/101755125/217448535-f0514add-a06a-4c03-8039-2aed6e3f817a.png">
+
+## Intel Speed Step & Optimizing Power Management
+
+<img width="312" alt="Screenshot 2023-02-10 at 7 34 34 PM" src="https://user-images.githubusercontent.com/101755125/218071393-7b015e7e-3700-4c3f-93db-8b19eb8c7a66.png">
+<img width="552" alt="Screenshot 2023-02-10 at 7 35 16 PM" src="https://user-images.githubusercontent.com/101755125/218071337-e8a71a66-22a8-4f22-8751-78a43c61a44b.png">
+ <img width="552" alt="Screenshot 2023-02-10 at 7 36 17 PM" src="https://user-images.githubusercontent.com/101755125/218071381-e9f110df-e2da-4707-b772-82e3ac2ce4cf.png">
+
 
 ⚠ Notice!
 > **If you want to use this efi normaly, Please input your New ROM / SystemUUID / SystemSerialNumber / MLB**
