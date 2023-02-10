@@ -27,7 +27,9 @@ I wrote down the detail description of this EFI in the notion
     - SMBIOS : iMac19,1 ( Retina 5K, 27-inch, 2019)
 
 ## Working Functions 
+<img width="1438" alt="Screenshot 2023-02-10 at 9 52 50 PM 2" src="https://user-images.githubusercontent.com/101755125/218097359-fe9371ef-6a8a-49b6-83d7-f812e9356e77.png">
 
+        
       -Internal Speaker,Headphones ( AppleALC )
       ㄴ You can use backpanel,frontpanel headphone/microphone jack
       
