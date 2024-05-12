@@ -10,7 +10,7 @@
 it works better than 0.8.8 bootloader efi
 
 I wrote down the detail description of this EFI in the notion
-> https://alive-bayberry-ea1.notion.site/AORUS-Z490-Elite-10700K-UHD-630-OC-0-7-9-Perfect-4c4ff8c7dc3b42a8886d361a6bbde9c9
+> https://asanari.notion.site/AORUS-Z490-Elite-10700K-UHD-630-OC-0-7-9-0-8-1-Ventura-O-4c4ff8c7dc3b42a8886d361a6bbde9c9?pvs=4
 
 # Preview MacOS
 
