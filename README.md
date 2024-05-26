@@ -105,4 +105,10 @@ I wrote down the detail description of this EFI in the notion
 
 <img width="512" alt="Screenshot 2023-02-08 at 2 43 00 PM 1" src="https://user-images.githubusercontent.com/101755125/217446894-510dd79c-2274-491d-8599-8800ae61be68.png">
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=sioaeko/Hackintosh-OPENCORE-Gigabyte-AORUS-Z490-Elite&type=Timeline)](https://star-history.com/#sioaeko/Hackintosh-OPENCORE-Gigabyte-AORUS-Z490-Elite&Timeline)
+
+
+
 
