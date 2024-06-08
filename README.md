@@ -4,13 +4,8 @@
 <img src="https://user-images.githubusercontent.com/101755125/218128864-415aa3e0-ebf5-47cb-8be0-7e41ba3820b3.jpeg" width="17%"></img>
 
 ⚠ Notice!
->https://github.com/59rice/Hackintosh-Intel-i7-10700k-AORUS-Z490-Elite-OpenCore-0.9.5
-
->We Made New EFI for compatibility MacOS Sonoma/Haeadless System
-it works better than 0.8.8 bootloader efi
-
-I wrote down the detail description of this EFI in the notion
-> https://asanari.notion.site/AORUS-Z490-Elite-10700K-UHD-630-OC-0-7-9-0-8-1-Ventura-O-4c4ff8c7dc3b42a8886d361a6bbde9c9?pvs=4
+- This project has been rewritten as Hackintosh-Opencore-AORUS-Z490-Elite-OC-0.9.5 as of 2024
+>https://github.com/sioaeko/Hackintosh-Opencore-AORUS-Z490-Elite-OC-0.9.5
 
 # Preview MacOS
 
