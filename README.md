@@ -7,7 +7,7 @@
 - This project has been rewritten as Hackintosh-Opencore-AORUS-Z490-Elite-OC-0.9.5 as of 2024
 >https://github.com/sioaeko/Hackintosh-Opencore-AORUS-Z490-Elite-OC-1.0.0
 
-⚠ New Notice!
+⚠ Notice!
 >We Made New EFI for compatibility MacOS Sonoma/Haeadless System
 >
 >This EFI has been updated by ChatGPT 4o to support Opencore 1.0.0 and is now in the current release
@@ -17,7 +17,13 @@
 >please use the 0.9.5 release of Opencore, which has been verified to work.
 >
 >kexts are missing for copyright reasons
-For the kexts, please refer to the EFI folder in the previous bootloader version to get the kexts for 1.0.0
+>For the kexts, please refer to the EFI folder in the previous bootloader version to get the kexts for 1.0.0
+>
+>The ACPI file can be copied from the EFI of the previous bootloader
+>
+>Resources can be copied and pasted from the genuine opencore 1.0.0 bootloader file
+>
+>We will deploy a future release that also adds the ACPI and Resources folders that are missing in 1.0.0 EFI
 >
 >Have a Happy Hackintosh :D
 
