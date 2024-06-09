@@ -16,6 +16,9 @@
 >If the version doesn't work, you can use the
 >please use the 0.9.5 release of Opencore, which has been verified to work.
 >
+>kexts are missing for copyright reasons
+For the kexts, please refer to the EFI folder in the previous bootloader version to get the kexts for 1.0.0
+>
 >Have a Happy Hackintosh :D
 
 # Preview MacOS
