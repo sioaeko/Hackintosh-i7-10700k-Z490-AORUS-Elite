@@ -25,6 +25,8 @@
 >
 >We will deploy a future release that also adds the ACPI and Resources folders that are missing in 1.0.0 EFI
 >
+>It's not a complete release, so we uploaded it as a pre-release
+>
 >Have a Happy Hackintosh :D
 
 # Preview MacOS
