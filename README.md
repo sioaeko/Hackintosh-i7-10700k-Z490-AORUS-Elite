@@ -1,11 +1,22 @@
-# Opencore-EFI-AORUS-Z490-Elite-OC-0.8.8-
+# Opencore-EFI-AORUS-Z490-Elite-OC-1.0.0
 
 
 <img src="https://user-images.githubusercontent.com/101755125/218128864-415aa3e0-ebf5-47cb-8be0-7e41ba3820b3.jpeg" width="17%"></img>
 
 ⚠ Notice!
 - This project has been rewritten as Hackintosh-Opencore-AORUS-Z490-Elite-OC-0.9.5 as of 2024
->https://github.com/sioaeko/Hackintosh-Opencore-AORUS-Z490-Elite-OC-0.9.5
+>https://github.com/sioaeko/Hackintosh-Opencore-AORUS-Z490-Elite-OC-1.0.0
+
+⚠ New Notice!
+>We Made New EFI for compatibility MacOS Sonoma/Haeadless System
+>
+>This EFI has been updated by ChatGPT 4o to support Opencore 1.0.0 and is now in the current release
+>
+>The developer no longer has that hardware, so that version has not been tested for operation.
+>If the version doesn't work, you can use the
+>please use the 0.9.5 release of Opencore, which has been verified to work.
+>
+>Have a Happy Hackintosh :D
 
 # Preview MacOS
 
