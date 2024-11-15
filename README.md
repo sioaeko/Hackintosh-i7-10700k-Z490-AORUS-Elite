@@ -1,33 +1,25 @@
 # Opencore-EFI-AORUS-Z490-Elite-OC-1.0.0
 
-
-<img src="https://user-images.githubusercontent.com/101755125/218128864-415aa3e0-ebf5-47cb-8be0-7e41ba3820b3.jpeg" width="17%"></img>
-
-⚠ Notice!
-- This project has been rewritten as Hackintosh-Opencore-AORUS-Z490-Elite-OC-0.9.5 as of 2024
->https://github.com/sioaeko/Hackintosh-Opencore-AORUS-Z490-Elite-OC-1.0.0
-
-⚠ Notice!
->We Made New EFI for compatibility MacOS Sonoma/Haeadless System
->
->This EFI has been updated by ChatGPT 4o to support Opencore 1.0.0 and is now in the current release
->
->The developer no longer has that hardware, so that version has not been tested for operation.
->If the version doesn't work, you can use the
->please use the 0.9.5 release of Opencore, which has been verified to work.
->
->kexts are missing for copyright reasons
->For the kexts, please refer to the EFI folder in the previous bootloader version to get the kexts for 1.0.0
->
->The ACPI file can be copied from the EFI of the previous bootloader
->
->Resources can be copied and pasted from the genuine opencore 1.0.0 bootloader file
->
->We will deploy a future release that also adds the ACPI and Resources folders that are missing in 1.0.0 EFI
->
->It's not a complete release, so we uploaded it as a pre-release
->
->Have a Happy Hackintosh :D
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h2>⚠️ ARCHIVED</h2>
+        <img src="https://user-images.githubusercontent.com/101755125/218128864-415aa3e0-ebf5-47cb-8be0-7e41ba3820b3.jpeg" width="150" alt="Project Logo">
+        <p><strong>This repository has been rewritten and moved to:</strong></p>
+        <p><a href="https://github.com/sioaeko/Hackintosh-Opencore-AORUS-Z490-Elite-OC-1.0.0"><strong>Hackintosh-Opencore-AORUS-Z490-Elite-OC-1.0.0</strong></a></p>
+        <p>Visit the new repository for:</p>
+        <ul align="left">
+          <li>🆕 Latest OpenCore updates</li>
+          <li>✨ Improved compatibility</li>
+          <li>🔧 Better maintenance and support</li>
+          <li>📦 Complete EFI package</li>
+        </ul>
+        <p><strong>Please use the new repository linked above for future updates.</strong></p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 # Preview MacOS
 
